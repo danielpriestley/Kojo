@@ -89,7 +89,7 @@ Create the backend for the Kojo app, allowing users to create, update, track and
 - Alternatively use postman/docgen to generate documentation
 - Add HTML files as the / route for the API
 
-### Deployment (Digital Ocean)
+## Deployment (Digital Ocean)
 - Push project to GitHub
 - Create a droplet on DigitalOcean
 - Clone repo on to the server
